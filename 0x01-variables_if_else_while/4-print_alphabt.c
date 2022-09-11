@@ -6,6 +6,7 @@
  * you can only use putchar
  * Return: 0
  */
+
 int main(void)
 {
 	int lw = 'a';
@@ -21,6 +22,6 @@ int main(void)
 			lw += 1;
 		}
 	}
-	putchar('\n')
+	putchar('\n');
 		return (0);
 }
