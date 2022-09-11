@@ -10,11 +10,11 @@
 
 int main(void)
 {
-int d;
-for (d = '0'; d <= '9'; d++)
+int dd;
+for (dd = '01'; dd <= '99'; d++)
 {
-putchar(d);
-if (d != '9')
+putchar(dd);
+if (dd != '99')
 {
 putchar(',');
 putchar(' ');
