@@ -4,6 +4,7 @@
  * you can only use putchar three times in your code
  * Return: (0)
  */
+
 int main(void)
 {
 	int lw = 'a';
