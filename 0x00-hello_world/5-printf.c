@@ -1,11 +1,12 @@
 #include <stdio.h>
 /**
- * main-entry point for the program
+ * main - entry point
  *
- * Retuen: sero if no error occurs, otherwise return non-zero
+ * Return: success 0 otherwise not 0
  */
 int main(void)
 {
-	printf("with proper grammer, but the outcome is a piece of art,\n");
+	printf("with proper grammar, but the outcome is a piece of art,\n");
 	return (0);
 }
+
