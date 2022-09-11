@@ -3,6 +3,7 @@
 /**
  * main - program that prints the lowercase alphabet in reverse, followed by a new line
  * you can only use putchar function
+ * Return: 0
  */
 
 int main(void)
