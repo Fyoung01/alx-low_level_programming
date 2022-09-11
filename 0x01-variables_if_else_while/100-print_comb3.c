@@ -11,7 +11,7 @@
 int main(void)
 {
 int d;
-for (d = '01'; d <= '99'; d++)
+for (d = '1'; d <= '99'; d++)
 {
 putchar(d);
 if (d != '99')
